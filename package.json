@@ -1,14 +1,15 @@
 {
   "name": "@gsebdev/react-simple-datepicker",
-  "version": "1.0.9",
-  "description": "A simple datepicker react component",
+  "version": "1.0.0",
+  "description": "A simple datepicker react/typescript component",
   "author": "Sebastien GAULT",
-  "main": "dist/index.js",
+  "main": "dist/index.ts",
+  "access": "public",
   "files": [
     "dist",
     "README.md"
   ],
-  "module": "dist/index.js",
+  "module": "dist/index.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/gsebdev/react-simple-datepicker"

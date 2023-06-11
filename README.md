@@ -1,7 +1,8 @@
 # @gsebdev React Simple Datepicker
 
-A simple datepicker react component.
-You can set an id, a onChange callback and a preselected value via props.
+A simple datepicker react/typescript component.
+
+You can set an id, name, placeholder, a onChange callback and a preselected value via props.
 
 
 [See demo link](https://gsebdev.github.io/react-simple-datepicker/)
