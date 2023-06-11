@@ -15,7 +15,7 @@ npm install @gsebdev/react-simple-datepicker
 ## Usage
 
 ```js
-import DatePicker from '@gsebdev/react-simple-datepicker';
+import {DatePicker} from '@gsebdev/react-simple-datepicker';
 
 function Example({data}) {
     const onChangeCallback = ({target}) => {
