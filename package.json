@@ -1,6 +1,6 @@
 {
   "name": "@gsebdev/react-simple-datepicker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple datepicker react/typescript component",
   "author": "Sebastien GAULT",
   "main": "dist/index.ts",
